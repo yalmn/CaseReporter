@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# casereporter: CLI-Wrapper für CaseReporter API
 
 API_URL="http://localhost:8000"
 
