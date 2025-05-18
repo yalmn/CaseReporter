@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pydantic
+psycopg2-binary
+transformers
+bitsandbytes
+jinja2
